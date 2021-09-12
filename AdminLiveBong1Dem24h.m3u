@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
+
+#EXTINF:0 tvg-id="kpm" group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai1010/IPTVGRUOP/main/1629987126042.png",K+ Sport Cinema HD
+https://hls.c1.omlet.gg/live/EZUB5MCHM7RLQCBRA6M4WOU33IQZDLC3ZGHQQTUVHDMYJCNZD4AQ/playlist.m3u8?sc=TWO&cdn=NginxCNC
